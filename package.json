@@ -72,5 +72,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@ionic-native/core": "^4.3.2"
   }
 }
